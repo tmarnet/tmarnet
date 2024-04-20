@@ -1,4 +1,18 @@
-### Hi there 👋
+What I’m hacking with right now:
+
+‣ Svelte, SvelteKit
+
+‣ tRPC, TanStack Query
+
+‣ Supabase
+
+‣ TailwindCSS
+
+What I’m also excited about:
+
+‣ Next.js, Remix
+
+‣ SolidJS, SolidStart
 
 <!--
 **tmarnet/tmarnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
