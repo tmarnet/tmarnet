@@ -4,7 +4,7 @@ What I’m hacking with right now:
 
 ‣ tRPC, TanStack Query
 
-‣ Supabase
+‣ Supabase, Drizzle ORM
 
 ‣ TailwindCSS
 
